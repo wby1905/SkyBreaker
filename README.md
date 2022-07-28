@@ -1,7 +1,7 @@
 # SkyBreaker
 **A toy game project based on C++.** And this game is fully displayed in a cmd panel. The packed 
 
-This game is a vertical scroll shooting game. Up to three different planes is available and three different enemies are to be knocked out.
+This game is a vertical scroll shooting game. Up to three different planes are available and three different enemies are to be knocked out.
 
 This project is created in 2018. (just for archive right now)
 
